@@ -1,0 +1,42 @@
+baseURL: https://filipecarneiro.github.io/hugo-bootstrap-theme/
+title: Hugo Bootstrap Theme
+author: Filipe Carneiro
+copyright: Open-source <a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT</a>
+  Licensed.
+timeZone: Europe/London
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: no
+theme: hugo-bootstrap-theme
+disableHugoGeneratorInject: yes
+enableRobotsTXT: yes
+enableGitInfo: yes
+enableEmoji: yes
+frontmatter:
+  date:
+    - date
+    - publishDate
+    - lastmod
+  lastmod:
+    - lastmod
+    - :fileModTime
+    - :default
+taxonomies:
+  author: authors
+  category: categories
+  series: series
+  tag: tags
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+permalinks: {}
+module:
+  hugoVersion:
+    extended: yes
+    max: ''
+    min: 0.99.1
+  mounts:
+    - source: assets
+      target: assets
+    - source: static
+      target: static
