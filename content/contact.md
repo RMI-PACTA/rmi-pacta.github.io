@@ -8,4 +8,4 @@ title: Contact
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+[Open an issue](https://github.com/RMI-PACTA/rmi-pacta.github.io/issues/new) on GitHub.
