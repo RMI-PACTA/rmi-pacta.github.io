@@ -3,7 +3,7 @@ aliases:
 - pages
 - docs
 authors:
-- Filipe Carneiro
+- Jackson Hoffart
 tags:
 - index
 title: Docs

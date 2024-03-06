@@ -3,7 +3,7 @@ aliases:
 - posts
 - blog
 authors:
-- Filipe Carneiro
+- Jackson Hoffart
 tags:
 - index
 title: Posts
