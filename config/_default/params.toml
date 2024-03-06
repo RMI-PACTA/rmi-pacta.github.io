@@ -5,7 +5,7 @@
 # https://gohugo.io/templates/internal/#twitter-cards
 # https://schema.org/Thing
 # https://schema.org/Article
-description = "Welcome to the PACTA technical team's blog. We create open-source tools and software to help align financial flows with climate goals. We use this blog to communicate about our software and share our knowledge."
+description = "👋 Welcome to the PACTA technical team's blog. We create open-source tools and software to help align financial flows with climate goals. We use this blog to communicate about our software and share our knowledge."
 images = ['images/logo_stacked.svg', 'images/logo_primary.svg']
 mainMenuLogo = "images/logo_stacked.svg"
 
