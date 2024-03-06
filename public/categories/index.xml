@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Bootstrap Theme</title>
-    <link>http://localhost:4321/hugo-bootstrap-theme/categories/</link>
-    <description>Recent content in Categories on Hugo Bootstrap Theme</description>
+    <title>Categories on PACTA Technical Blog</title>
+    <link>https://rmi-pacta.github.io/categories/</link>
+    <description>Recent content in Categories on PACTA Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
-    <lastBuildDate>Tue, 05 Mar 2024 17:33:18 +0100</lastBuildDate>
-    <atom:link href="http://localhost:4321/hugo-bootstrap-theme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/RMI-PACTA/rmi-pacta.github.io/LICENSE.md&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <lastBuildDate>Tue, 05 Mar 2024 22:26:33 +0100</lastBuildDate>
+    <atom:link href="https://rmi-pacta.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Release Notes</title>
-      <link>http://localhost:4321/hugo-bootstrap-theme/categories/hugo-release-notes/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:4321/hugo-bootstrap-theme/categories/hugo-release-notes/</guid>
+      <link>https://rmi-pacta.github.io/categories/hugo-release-notes/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0200</pubDate>
+      <guid>https://rmi-pacta.github.io/categories/hugo-release-notes/</guid>
       <description></description>
     </item>
     <item>
       <title>The Bootstrap Blog</title>
-      <link>http://localhost:4321/hugo-bootstrap-theme/categories/the-bootstrap-blog/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:4321/hugo-bootstrap-theme/categories/the-bootstrap-blog/</guid>
+      <link>https://rmi-pacta.github.io/categories/the-bootstrap-blog/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0200</pubDate>
+      <guid>https://rmi-pacta.github.io/categories/the-bootstrap-blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo Bootstrap Theme</title>
-      <link>http://localhost:4321/hugo-bootstrap-theme/categories/hugo-bootstrap-theme/</link>
+      <link>https://rmi-pacta.github.io/categories/hugo-bootstrap-theme/</link>
       <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
-      <guid>http://localhost:4321/hugo-bootstrap-theme/categories/hugo-bootstrap-theme/</guid>
+      <guid>https://rmi-pacta.github.io/categories/hugo-bootstrap-theme/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>http://localhost:4321/hugo-bootstrap-theme/categories/r/</link>
+      <link>https://rmi-pacta.github.io/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/hugo-bootstrap-theme/categories/r/</guid>
+      <guid>https://rmi-pacta.github.io/categories/r/</guid>
       <description></description>
     </item>
   </channel>

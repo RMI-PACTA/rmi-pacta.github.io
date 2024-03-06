@@ -5,7 +5,7 @@
 # https://gohugo.io/templates/internal/#twitter-cards
 # https://schema.org/Thing
 # https://schema.org/Article
-description = "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
+description = "PACTA Team's technical blog."
 images = ['images/logo.svg','images/site-feature-image.png']
 mainMenuLogo = "images/logo.svg"
 
@@ -20,8 +20,8 @@ alertText = "Introducing this new service! <a class=\"alert-link stretched-link\
 
 # Pre-footer
 footerAbout = true
-footerAboutTitle = "Few Words About Us"
-footerAboutText = "We protect your website so you can provide a safe environment to build trust and improve the user experience of your visitors.<br/><br/>Salvus Site is the partner that you can rely on for preventive and reactive cybersecurity."
+footerAboutTitle = "We are the PACTA technical team :-)"
+footerAboutText = "We create tools and software to help fight the climate crisis."
 
 [options]
   bootStrapJs = true
