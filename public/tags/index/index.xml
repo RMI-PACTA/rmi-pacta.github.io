@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on PACTA Technical Blog</title>
+    <title>index on PACTA Technical Blog</title>
     <link>https://rmi-pacta.github.io/tags/index/</link>
-    <description>Recent content in Index on PACTA Technical Blog</description>
+    <description>Recent content in index on PACTA Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/RMI-PACTA/rmi-pacta.github.io/LICENSE.md&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
