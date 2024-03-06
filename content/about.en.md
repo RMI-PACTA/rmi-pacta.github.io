@@ -5,4 +5,7 @@ title: About
 
 # About Us
 
-Made with ❤️ by the *Hugo Bootstrap Theme* [team](https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors).
+We are the [PACTA Tech team](https://github.com/orgs/RMI-PACTA/teams/developers), a small group of passionate open source developers.
+
+Check out our [GitHub organization](https://github.com/RMI-PACTA) to see all of our open source code.
+Check out the main [PACTA website](https://pacta.rmi.org/) for more information about the project.
