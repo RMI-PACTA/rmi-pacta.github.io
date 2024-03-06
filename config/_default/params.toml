@@ -6,8 +6,8 @@
 # https://schema.org/Thing
 # https://schema.org/Article
 description = "PACTA Team's technical blog."
-images = ['images/logo.svg','images/site-feature-image.png']
-mainMenuLogo = "images/logo.svg"
+images = ['images/logo_stacked.eps']
+mainMenuLogo = "images/logo_stacked.eps"
 
 # For favicons
 ## Chrome Browser
